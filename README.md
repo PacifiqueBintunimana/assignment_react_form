@@ -14,6 +14,13 @@ This is a full-stack web application built using React for the frontend and a Ja
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Future Enhancements](#future-enhancements)
+### Table of Contents
+Introduction
+1. Form Inputs and Controlled Components
+2. Managing Form State
+3. Form Validation
+4. Handling Form Submission
+5. Key Points to Remember
 
 ## Project Overview
 The User Management Application is designed to allow the addition of users through a form and display them in a list format. Users have attributes such as `name`, `email`, and `password`.
@@ -39,7 +46,7 @@ The User Management Application is designed to allow the addition of users throu
 - **Java 8+** (for running the Spring Boot application)
 - **Maven** (for managing backend dependencies)
 
-### Installation Steps
+#### Installation Steps
 
 1. **Clone the repository**:
     ```bash
@@ -77,14 +84,8 @@ Managing form state and controlled components.
 React Form Handling
 This repository provides examples and explanations of how to manage forms in React. It covers the core concepts of controlled components, form state management, form validation, and handling form submission.
 
-Table of Contents
-Introduction
-1. Form Inputs and Controlled Components
-2. Managing Form State
-3. Form Validation
-4. Handling Form Submission
-5. Key Points to Remember
-Introduction
+
+###Introduction
 Handling forms in React involves managing the state of form inputs, validating data, and handling form submissions. In this guide, we will cover how to work with controlled components, manage form state, add custom validation logic, and handle form submissions.
 
 1. Form Inputs and Controlled Components
